@@ -9,7 +9,10 @@ app.post("/trips/:id/finish", (req, res) => {
 
   res.json({
     tripId: id,
-    status: "finished"
+    status: "finished",
+
+    id: id,
+    trip_status: "completed"
   });
 });
 
