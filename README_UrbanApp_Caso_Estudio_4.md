@@ -189,7 +189,11 @@ Después:
 git add .
 git commit -m "fix(api): corregir finalización de viajes"
 ```
-
+![alt text](./img/{7485E96C-842C-4B9B-99D1-E530183ED6B0}.png)//imagen ramas
+![alt text]({B0173B75-DC68-4167-B303-9149DEAF13EF}.png) //imagen canary 5
+![alt text]({193B5DB7-6C3E-4ACD-A687-80B0050FFFE7}.png) //imagen canary 25
+![alt text]({2DAB70CE-725D-4D9F-B6AA-80894B50B041}.png) //imagen canary 100
+![alt text]({05318FC1-F540-4835-9B23-701E74C74960}.png) //imagen newtripapi false
 ------------------------------------------------------------------------
 
 ### Paso 4 --- Ejecutar pruebas
