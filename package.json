@@ -1,0 +1,24 @@
+{
+  "name": "gestion_desarrollo_de_software",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BR1ANJ3Sus3B/Gestion_desarrollo_de_software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BR1ANJ3Sus3B/Gestion_desarrollo_de_software/issues"
+  },
+  "homepage": "https://github.com/BR1ANJ3Sus3B/Gestion_desarrollo_de_software#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
